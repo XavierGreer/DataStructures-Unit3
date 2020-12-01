@@ -1,0 +1,12 @@
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/bin/Debug/netcoreapp3.1/Unit3_2.deps.json
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/bin/Debug/netcoreapp3.1/Unit3_2.runtimeconfig.json
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/bin/Debug/netcoreapp3.1/Unit3_2.runtimeconfig.dev.json
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/bin/Debug/netcoreapp3.1/Unit3_2.dll
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/bin/Debug/netcoreapp3.1/Unit3_2.pdb
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.csprojAssemblyReference.cache
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.AssemblyInfoInputs.cache
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.AssemblyInfo.cs
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.csproj.CoreCompileInputs.cache
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.dll
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.pdb
+/Users/xaviergreer/School/CS267 - Computer Algorithms/Unit 3/Unit3_2/Unit3_2/obj/Debug/netcoreapp3.1/Unit3_2.genruntimeconfig.cache
